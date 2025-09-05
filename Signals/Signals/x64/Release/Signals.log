@@ -1,0 +1,25 @@
+﻿  getRandomInRange.cpp
+  Signals.cpp
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(182,30): warning C4018: '>': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(186,30): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(200,41): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(210,41): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(263,29): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(273,29): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(283,29): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(293,29): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(303,29): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(313,29): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(323,29): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(333,29): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(343,29): warning C4018: '<': signed/unsigned mismatch
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(485,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(509,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Documents\DOWNLOADS\TEST CPP\Signals\Signals\Signals.cpp(567,37): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 173 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Signals.vcxproj -> E:\Documents\DOWNLOADS\TEST CPP\Signals\x64\Release\Signals.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
